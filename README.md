@@ -1,1 +1,3 @@
 # KUNAL-KUSHWAHA-GIT-TUTORIAL
+Hii my name is MOhd Tauhid and i am learning DSA course that provide by Kunal Kushwaha and i hope i will become a great developer as well as kunal Kushwaha.
+Thank you so much Kunal Bhyaa...
